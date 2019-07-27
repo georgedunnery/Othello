@@ -1,0 +1,3 @@
+velma 64
+scooby 32
+shaggy 0
